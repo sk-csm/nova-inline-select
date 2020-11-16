@@ -21,8 +21,7 @@
                 :title="__('Update')"
                 v-if="showUpdateButton"
                 @click="submit">
-                test message
-                <icon type="play" class="text-white" style="margin-left: 7px"/>
+                <icon type="pause" class="text-white" style="margin-left: 7px"/>
             </button>
         </template>
 

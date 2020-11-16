@@ -1,6 +1,8 @@
 export default {
     data() {
         return {
+            showFollowUp: false,
+            showCancelReason: false,
             showUpdateButton: false
         }
     },

@@ -1,5 +1,5 @@
 {
-    "name": "sk-csd/custom-inline-select",
+    "name": "sk-csm/nova-inline-select",
     "description": "An inline select field for Laravel Nova apps.",
     "keywords": [
         "laravel",
